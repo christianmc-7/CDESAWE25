@@ -39,6 +39,7 @@ Personas aficionadas a la cocina que quieran organizar sus recetas, descubrir nu
 
 Ejemplo de [página de referencia](https://www.allrecipes.com/)
 
-[![GitHub Logo](https://upload.wikimedia.org/wikipedia/commons/9/91/GitHub-Mark-64px.png)](https://github.com/)
+[![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com/)
+
 
 
