@@ -1,7 +1,12 @@
-# Cook&Share
+<!DOCTYPE html>
+<html>
+<body>
+  <h1>Cook&Share</h1>
+</body>
+</html>
 
 ## Descripción del proyecto
-**Cook&Share** es una aplicación web que permite a los usuarios compartir y descubrir recetas de cocina. Los usuarios pueden *crear*, *editar*, *valorar* y *comentar* recetas, así como *guardar* sus favoritas en un panel personal.
+> **Cook&Share** es una aplicación web que permite a los usuarios compartir y descubrir recetas de cocina. Los usuarios pueden *crear*, *editar*, *valorar* y *comentar* recetas, así como *guardar* sus favoritas en un panel personal.
 
 ## Público objetivo
 Personas aficionadas a la cocina que quieran organizar sus recetas, descubrir nuevas ideas y participar en una comunidad de forma sencilla y segura.
@@ -23,3 +28,17 @@ Personas aficionadas a la cocina que quieran organizar sus recetas, descubrir nu
 ### Backend
 1. PHP
 2. MySQL
+
+## Roles de usuarios
+
+| Rol            | Permisos principales                            |
+|----------------|-------------------------------------------------|
+| Usuario        | Crear, editar y eliminar sus propias recetas    |
+| Moderador      | Revisar comentarios y valorar recetas           |
+| Administrador  | Gestionar usuarios y contenido del sistema      | 
+
+Ejemplo de [página de referencia](https://www.allrecipes.com/)
+
+[![GitHub Logo](https://upload.wikimedia.org/wikipedia/commons/9/91/GitHub-Mark-64px.png)](https://github.com/)
+
+
