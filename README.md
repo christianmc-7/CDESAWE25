@@ -43,3 +43,4 @@ Ejemplo de [página de referencia](https://www.allrecipes.com/)
 
 ![logoEjemplo](images/logoEjemplo.jpg)
 
+[Ver detalle funcional](./detalle-funcional.md)
