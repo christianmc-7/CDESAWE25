@@ -6,3 +6,5 @@ La funcionalidad de **gestión de recetas** permite a los usuarios:
 - *organizar* sus publicaciones
 
 A través de esta sección, el usuario puede añadir una receta nueva, modificar una ya existente o eliminarla del sistema.
+
+[Volver](./README.md)
